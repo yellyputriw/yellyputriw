@@ -1,5 +1,5 @@
 # Hi, I'm Yelly 👋
-🔭 I’m currently working at Digitbox as **Front-End Developer**\
+🔭 I’m currently working at Digitbox as **UI Engineer**\
 📫 Interest to work? [Contact Me!](https://yellyputriw.github.io/simple-contact-link/)\
 😄 Nice To Meet You 😄
 
