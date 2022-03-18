@@ -1,10 +1,10 @@
 # Hi, I'm Yelly 👋
-🔭 I’m currently working at Digitbox as **UI Engineer**\
+🔭 I’m currently working as **User Interface Engineer**\
 📫 Interest to work? [Contact Me!](https://yellyputriw.github.io/simple-contact-link/)\
 😄 Nice To Meet You 😄
 
 ### About Me
-I’m a self-taught developer specializing in designing and building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Digitbox. I’m from Indonesia and right now I am looking forward to collaborate with you!
+I’m a self-taught developer specializing in designing and building exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products. I’m from Indonesia and right now I am looking forward to collaborate with you!
 
 ### Github Statistic
 <p align="left">
